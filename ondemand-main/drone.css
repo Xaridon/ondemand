@@ -1,0 +1,20 @@
+* {
+    font-family:Arial, Helvetica, sans-serif
+}
+
+#cont{
+    background-color: #f96d00;
+    margin: 40px;
+    padding: 50px;
+    text-align: center;
+    position: relative;
+    border-width: 8px;
+    border-style: solid;
+    border-color: #393e46;
+    border-radius: 50px;
+}
+
+#etaid{
+    font-size: x-large;
+    color: #393e46;
+}
